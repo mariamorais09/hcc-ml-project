@@ -5,3 +5,5 @@
 --- Requisitos --- python, and python libraries - panda, matplotlib, seaborn, numpy, sklearn ;
 
 --- Uso --- Para que o código seja executado corretamente com os dados do dataset é essencial que estes estejam na mesma pasta.
+
+--- Link do GitHub --- https://github.com/mariamorais09/trabalho2
