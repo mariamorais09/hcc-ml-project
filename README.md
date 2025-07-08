@@ -3,7 +3,7 @@
 
 **Exploração e Enriquecimento de Dados para Classificação Supervisionada**
 
-Neste projeto, o objetivo foi prever se um paciente com Carcinoma Hepatocelular sobreviveria ou não, com base nos dados clínicos fornecidos.
+Neste projeto, o objetivo foi prever se um paciente com Carcinoma Hepatocelular (hcc) sobreviveria ou não, com base nos dados clínicos fornecidos.
 
 Utilizámos um dataset com informações de 165 pacientes, dividido de forma não equivalente em dois subconjuntos:
 - 70% dos dados foram usados para treinar cinco modelos de machine learning
