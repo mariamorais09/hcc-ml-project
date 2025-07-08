@@ -1,9 +1,26 @@
---------- Data exploration and enrichment for supervised classification --------- Neste projeto, o objetivo era prever se um paciente com Carcinoma Hepatocelular vive ou morre, com base nos dados que nos são fornecidos. Assim, dividimos o dataset de 165 pacientes, em dois conjuntos de forma não equivalente, nos quais 70% foram destinados a treino de cinco modelos, e os restantes 30% à testagem.
+**Exploração e Enriquecimento de Dados para Classificação Supervisionada**
+Neste projeto, o objetivo foi prever se um paciente com Carcinoma Hepatocelular sobreviveria ou não, com base nos dados clínicos fornecidos.
 
---- Funcionalidades --- Este trabalho contém um ficheiro de jupyter notebook, no qual há código e gráficos, com as suas devidas explicações. Contém um PowerPoint, e um ficheiro com extensão odt, que contém a análises finais do trabalho. Estes ficheiros estão todos no repositório do GitHub. 
+Utilizámos um dataset com informações de 165 pacientes, dividido de forma não equivalente em dois subconjuntos:
+- 70% dos dados foram usados para treinar cinco modelos de machine learning
+- 30% foram reservados para avaliar o desempenho dos modelos em dados nunca antes vistos.
 
---- Requisitos --- python, and python libraries - panda, matplotlib, seaborn, numpy, sklearn ;
+*Funcionalidades*
 
---- Uso --- Para que o código seja executado corretamente com os dados do dataset é essencial que estes estejam na mesma pasta.
+Notebook Jupyter contendo:
+- Limpeza, exploração e enriquecimento dos dados
+- Visualizações com explicações detalhadas
+- Treino e avaliação de modelos de classificação
 
---- Link do GitHub --- https://github.com/mariamorais09/trabalho2
+Apresentação PowerPoint com resumo do projeto e principais resultados
+
+Documento ODT com a análise final e conclusões do trabalho
+
+Todos os ficheiros encontram-se disponíveis neste repositório GitHub
+
+*Requisitos*
+- Python 3
+- Bibliotecas: pandas, numpy, matplotlib, seaborn, scikit-learn
+
+*Instruções de Uso*
+Para garantir a execução correta do notebook, certifique-se de que o ficheiro do dataset se encontra na mesma pasta que o ficheiro .ipynb.
