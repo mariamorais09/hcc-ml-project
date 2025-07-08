@@ -1,4 +1,8 @@
+*Projeto desenvolvido no âmbito da unidade curricular de Elementos de Inteligência Artificial e Ciência de Dados no segundo semestre do ano letivo 2023/2024*
+
+
 **Exploração e Enriquecimento de Dados para Classificação Supervisionada**
+
 Neste projeto, o objetivo foi prever se um paciente com Carcinoma Hepatocelular sobreviveria ou não, com base nos dados clínicos fornecidos.
 
 Utilizámos um dataset com informações de 165 pacientes, dividido de forma não equivalente em dois subconjuntos:
